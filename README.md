@@ -304,7 +304,7 @@
 
 **Assignments:**
 
-1. Build a small Python Application to 
+1. Build a small Python Application to call REST API
 
 </details>
 
