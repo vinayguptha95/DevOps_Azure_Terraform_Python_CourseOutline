@@ -12,6 +12,8 @@
     
 3. <a href=https://github.com/kmitsolution/Azure/tree/main/Az-104> Azure Fundamentals and SysAdmin </a>
 
+           <a href=https://www.devopsworld.co.in/2024/11/az-900.html> Azure Fundamental Quiz </a>
+
 ## Weekwise Schedule
 
 ##### Week 1 ( 4 days Python 1 day git) 
