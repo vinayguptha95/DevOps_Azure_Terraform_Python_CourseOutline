@@ -18,6 +18,8 @@
 
      <a href=https://www.devopsworld.co.in/2025/11/terraform-quiz.html> Terraform Quiz </a>
 
+5. <a href=https://www.devopsworld.co.in/p/docker-tutorials.html>Docker Tutorial </a>     
+
 ## Weekwise Schedule
 
 ##### Week 1 ( 4 days Python 1 day git) 
